@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.product-card {
+  margin: 20px;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+}
+
+.rating {
+  color: #ffcc00;
+}
+
+.qty {
+  font-weight: bold;
+  color: green;
+}
+
+body {
+  background-color: black;
+}
+
+.title {
+  color: white;
+}
+
+.subtitle {
+  color: white;
+}
+
+.header {
+  background-color: rgb(50, 50, 50);
+}
+
+.price {
+  font-weight: 700;
+}
